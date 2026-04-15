@@ -1,0 +1,22 @@
+{
+  "base_price": 3495,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "expansion",
+  "config_description": "The \"Blue Ocean\" Map. Specific markets where category demand is high (active sentiments) but supply is thin (<5 competitors) in cities with 50k+ population.\n\nThese records are the only locations in Washington that pass a strict tri-factor test for high density, severe market undersupply, and immediate micro-radius opportunity.",
+  "config_name": "White Space Finder in Washington, US",
+  "export_job_id": "df2eb082-8dd4-413f-a01d-ea2bb86006a4",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 962019,
+  "location_name": "Washington",
+  "location_type": "state",
+  "repo_name": "white-space-finder-in-washington-us-sample-962019",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/962019/beamstation_962019_food_and_drink-us-wa_SAMPLE_DIST.csv",
+  "sample_pct": 5.88,
+  "sample_records": 1,
+  "sample_sha256": "03ff3cf367ca53fc557e4023590e2b16122b43267f375eb621ad8f7b652a4332",
+  "sample_size_bytes": 20208,
+  "total_records": 17,
+  "updated_at": "2026-04-07T15:09:03.810561+00:00"
+}
