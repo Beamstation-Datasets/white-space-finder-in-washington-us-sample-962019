@@ -1,0 +1,12 @@
+{
+  "export_job_id": "df2eb082-8dd4-413f-a01d-ea2bb86006a4",
+  "id_short": 962019,
+  "published_at": "2026-04-15T19:57:35Z",
+  "repo_name": "white-space-finder-in-washington-us-sample-962019",
+  "sample_asset_name": "beamstation_962019_food_and_drink-us-wa_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/962019/beamstation_962019_food_and_drink-us-wa_SAMPLE_DIST.csv",
+  "sample_records": 1,
+  "sample_sha256": "03ff3cf367ca53fc557e4023590e2b16122b43267f375eb621ad8f7b652a4332",
+  "sample_size_bytes": 20208,
+  "total_records": 17
+}
