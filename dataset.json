@@ -6,7 +6,7 @@
   "config_category": "expansion",
   "config_description": "The \"Blue Ocean\" Map. Specific markets where category demand is high (active sentiments) but supply is thin (<5 competitors) in cities with 50k+ population.\n\nThese records are the only locations in Washington that pass a strict tri-factor test for high density, severe market undersupply, and immediate micro-radius opportunity.",
   "config_name": "White Space Finder in Washington, US",
-  "export_job_id": "ec5b699c-c8b5-4788-9ded-41cbaf47ee5f",
+  "export_job_id": "cdd2d8d5-eb67-449a-8c8c-67adef9dacaf",
   "github_org": "Beamstation-Datasets",
   "id_short": 962019,
   "location_name": "Washington",
@@ -15,8 +15,8 @@
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/962019/beamstation_962019_food_and_drink-us-wa_SAMPLE_DIST.csv",
   "sample_pct": 6.25,
   "sample_records": 1,
-  "sample_sha256": "03ff3cf367ca53fc557e4023590e2b16122b43267f375eb621ad8f7b652a4332",
-  "sample_size_bytes": 20208,
+  "sample_sha256": "78932d95548d8f7c329dba087bb14afb8268e1b82fa516ff6d32ee59ac483d96",
+  "sample_size_bytes": 20209,
   "total_records": 16,
-  "updated_at": "2026-04-14T21:36:45.136026+00:00"
+  "updated_at": "2026-04-22T00:12:44.373498+00:00"
 }
